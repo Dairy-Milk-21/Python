@@ -1,12 +1,12 @@
-# ### **🗓️ Week 1: Python Basics & Data Types**  
+#Day-01
 # #### 📖 **Topics to Learn:**  
+#Baics concepts of : 
 # ✅ Installing Python & VS Code  -- Done
 # ✅ Variables, Data Types (int, float, str, bool, None)  
 # ✅ Input/Output (print, input)  
 # ✅ Typecasting  
 # ✅ Conditional Statements (`if-else`)  
 # ✅ Loops (`for`, `while`)  
-# ✅ Operators (Arithmetic, Logical)  
 
 #The four Datatypes I am gonna learn are : int, float, str, bool
 #A variable is a box that grasp a value whenever we assign to it.
@@ -50,4 +50,4 @@ for let_b in range(1,101):
     print(let_b)
     let_b+=1
 
-#Arithmetic operations
+

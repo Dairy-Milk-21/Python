@@ -1,0 +1,30 @@
+## **📅 Month 3: Advanced Python & Specialization**  
+🚀 **Goal**: Work on real-world applications (AI, ML, Web Apps, Game Dev).  
+
+### **🗓️ Week 7: GUI Development (Tkinter, PyQt)**  
+✅ Create interactive GUI applications  
+
+#### 🔥 **Mini Projects (10)**
+61. **Digital Clock GUI**  
+62. **Weather App GUI**  
+63. **Basic Calculator GUI**  
+64. **To-Do List App (GUI)**  
+65. **Notepad Clone**  
+
+#### 💡 **Full Project 7:**  
+🔹 **Task Manager App (GUI + Database)**  
+
+---
+
+### **🗓️ Weeks 8-12: Final Advanced Projects**  
+🔹 **Big Projects (Final 10)**  
+1. **AI Chatbot (OpenAI API)**  
+2. **Django Blog App**  
+3. **E-commerce Website (Flask/Django)**  
+4. **Snake Game (Pygame)**  
+5. **Spotify Song Downloader**  
+6. **AI-Powered Image Recognition**  
+7. **Face Detection System**  
+8. **AI Voice Assistant**  
+9. **Python Blockchain Implementation**  
+10. **Automated Stock Trading Bot**  

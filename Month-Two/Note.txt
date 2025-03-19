@@ -1,0 +1,44 @@
+
+## **📅 Month 2: Intermediate & Advanced Python**  
+🚀 **Goal**: Master advanced topics like database, APIs, web scraping, and GUI.  
+
+### **🗓️ Week 5: Database & APIs**  
+✅ SQLite & MySQL Integration  
+✅ REST APIs (Requests, JSON Handling)  
+
+#### 🔥 **Mini Projects (10)**
+41. **Store User Details in SQLite**  
+42. **Fetch Weather Data Using API**  
+43. **Currency Converter (API-based)**  
+44. **News Aggregator (API-based)**  
+45. **Stock Price Checker**  
+46. **User Authentication System**  
+47. **Password Manager (Using Database)**  
+48. **Online Quiz Game (API)**  
+49. **Simple Chatbot (Basic NLP)**  
+50. **E-commerce Product Scraper**  
+
+#### 💡 **Full Project 5:**  
+🔹 **Personal Finance App (Track Expenses with Database & API)**  
+
+---
+
+### **🗓️ Week 6: Web Scraping & Automation**  
+✅ BeautifulSoup & Selenium  
+✅ Automating Web Tasks  
+
+#### 🔥 **Mini Projects (10)**
+51. **Amazon Price Tracker**  
+52. **Automated Email Sender**  
+53. **Scrape Wikipedia Data**  
+54. **Automated Birthday Email Sender**  
+55. **YouTube Video Downloader**  
+56. **Automate Form Filling**  
+57. **Instagram Bot (Likes & Comments Automation)**  
+58. **Automate WhatsApp Messages**  
+59. **Stock Market Price Scraper**  
+60. **PDF to Text Converter**  
+
+#### 💡 **Full Project 6:**  
+🔹 **Automated Resume Builder (Scrape Data & Generate PDF)**  
+
