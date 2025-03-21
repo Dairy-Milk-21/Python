@@ -51,3 +51,13 @@ for let_b in range(1,101):
     let_b+=1
 
 
+#Arithmetic operations
+x = 10
+y = 20
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x%y)
+print(x**y)
+print(x//y)
